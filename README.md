@@ -6,6 +6,33 @@
 
 **Chillin** is an offline-first music player for Android. It plays the audio already on your device and can download audio from YouTube links into your public `Music/Chillin` folder. No accounts, no cloud library, no streaming service — playback works without a network connection.
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/home.jpg" width="280" alt="Home"><br>
+  <b>Home</b> — Your library at a glance, with popular artists and albums
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/player.jpg" width="280" alt="Now Playing"><br>
+  <b>Now Playing</b> — Queue, synced lyrics, and a background that follows the music
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/download.jpg" width="280" alt="Download audio"><br>
+  <b>Download</b> — Paste a YouTube link, pick a format, and it lands in Music/Chillin
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/playlists.jpg" width="280" alt="Playlists"><br>
+  <b>Playlists</b> — Local playlists, built from the songs on your device
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/search.jpg" width="280" alt="Search"><br>
+  <b>Search</b> — Search songs, albums, artists, and playlists
+</p>
+
 ## Features
 
 - **Local library** — your device's music from MediaStore, with Home, Search, and playlists
